@@ -1,16 +1,16 @@
 
-Titre du projet : "Mise en place d'un écoquartier : LisenValley"
+# **Titre du projet : "Mise en place d'un écoquartier : LisenValley"**
 
-Slogan : " Une énergie durable entre nous, l’ambition partagé ".
+## **Slogan : " Une énergie durable entre nous, l’ambition partagé ".**
 
-Paragraphe résumant le projet
+### **Paragraphe résumant le projet**
 "  Le projet consiste à mettre en place un écoquartier dans la ville du Pradet dans une démarche écologique.
 En effet, le mandataire de ce projet est la ville du Pradet, qui, dans une volonté de redynamisation écologique a demandé aux élèves de l'ISEN Toulon de trouver une solution qui répond aux besoins fixés par la ville.
  Ce projet consiste en un écoquartier appelé LisenValley.
 Chaque logement sera équipé d'un panneau solaire ainsi que de deux petites éoliennes afin de générer de l'électricité durablement.
 Cela permettra de stocker de l'énergie dans des batteries en fonction de la quantité d'énergie générée, de s'auto-alimenter en électricité mais également de redistribuer un surplus de production à la ville lorsque les batteries sont pleines."
 
-Démarrage :
+### **Démarrage :**
  Les différentes étapes pour faire fonctionner le prototype sont :
 	étape 1 : aller sur le site internet
 	etape 2 : se connecter en rentrant son identifiant et son mot de passe
@@ -20,7 +20,7 @@ Démarrage :
 	étape 5 : Idem que l'étape 3 avec la possibilité d'observer la consommation énergétique en direct
 
 
-Arborescence :
+### **Arborescence :**
 TLN_Equipe9_New Vibes--> Livrable --> COMPTE RENDU TEXHNIQUE --> PROJET_ECOQUARTIER
 		--> dossier arduino --> LANCER le fichier arduino  projet.ino
 		--> dossier site WEB_BDD -->Un WebServer doit être installé sur la machine pour pouvoir ouvrir les pages de l'application
@@ -39,7 +39,7 @@ Le micro controlleur effectue des requêtes http sur la page "fonctions_php/post
 
 
 
-Auteurs :
+### **Auteurs :**
 - CORRE Johanna -- DEMASI Thibault -- RENARD Yoann -- COLLODET Laeticia -- TAZARINE Enzo -- DUBOIS Théo,
 - New Vibe,
 - 2020-2021
