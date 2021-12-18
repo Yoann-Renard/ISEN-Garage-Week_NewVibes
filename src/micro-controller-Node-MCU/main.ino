@@ -33,11 +33,11 @@ const byte PIN_SIG = A0;
 #include <Adafruit_BME280.h>
 
 // Replace with your network credentials
-const char* ssid     = "iPhone";
-const char* password = "Laetitia20";
+const char* ssid     = "netWorkName";
+const char* password = "netWorkPass";
 
 // REPLACE with your Domain name and URL path or IP address with path
-const char* serverName = "http://c966f157ae51.ngrok.io/NewVibe/App/post_db/post-esp-data.php";
+const char* serverName = "http://servername/NewVibe/App/post_db/post-esp-data.php";
 
 // Keep this API Key value to be compatible with the PHP code provided in the project page. 
 // If you change the apiKeyValue value, the PHP file /post-esp-data.php also needs to have the same key 
